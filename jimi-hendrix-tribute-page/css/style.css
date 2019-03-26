@@ -1,0 +1,44 @@
+html,body{
+  font-family:"Lobster", Helvetica, sans-serif;
+  text-align:center;
+  min-width:342px;
+  color:#371968;
+}
+#main{
+  margin:42px auto;
+  padding:15px;
+  border:0px solid;
+  border-radius:5px;
+  background:#eee;
+}
+img{
+  max-width: 100%; 
+  height: auto;
+  margin: auto;
+  display: block;
+}
+#img-div{
+  margin:42px, 42px, 10px, 42px;
+  width:100%;
+  border:5px #371968;
+  background: #eee;
+}
+#img-caption{
+  margin:-0em;
+}
+#headline{
+  margin-top:50px;
+  text-align:left;
+}
+ul{
+  max-width: 550px;
+  margin:0 auto;
+  text-align: left;
+}
+li{
+  margin: 10px;
+}
+blockquote{
+  font-family: Roboto;
+  font-style: 
+}
